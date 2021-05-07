@@ -1,7 +1,7 @@
 {
   "name": "file-hasher-gui",
   "version": "0.1.0",
-  "description": "This is an electron based file hasher that can hash and verify files",
+  "description": "An electron based file hasher that can hash and verify files",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
