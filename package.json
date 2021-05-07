@@ -1,0 +1,28 @@
+{
+  "name": "file-hasher-gui",
+  "version": "0.1.0",
+  "description": "This is an electron based file hasher that can hash and verify files",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwang126/File-Hasher-GUI.git"
+  },
+  "keywords": [
+    "CRC32",
+    ".sfv"
+  ],
+  "author": "Wavelet Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwang126/File-Hasher-GUI/issues"
+  },
+  "homepage": "https://github.com/wwang126/File-Hasher-GUI#readme",
+  "dependencies": {
+    "electron": "^12.0.6",
+    "js-crc": "^0.2.0"
+  }
+}
